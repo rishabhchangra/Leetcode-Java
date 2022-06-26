@@ -1,4 +1,4 @@
-class LC387 {
+class LC387firstUniqChar {
     public int firstUniqChar(String s) {
         
         
