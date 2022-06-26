@@ -1,4 +1,4 @@
-class duplicate {
+class LC287duplicate {
     public int findDuplicate(int[] nums) {
         
         
